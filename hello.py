@@ -1,3 +1,3 @@
 print('Hello World')
-num=int(input('enter your age:'))
-print('Welcome',int)
+name=input('enter your age:')
+print('Welcome',name)
