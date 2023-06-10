@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world from IndoWestern Side
+=======
+Hello world from IndoWestern 
+>>>>>>> branch2
